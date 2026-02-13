@@ -1,0 +1,21 @@
+RFM Customer Segmentation Business Actions
+
+Champions:
+- Provide exclusive loyalty rewards
+- Offer early access to new products
+- Encourage referrals
+
+Loyal Customers:
+- Upsell premium products
+- Cross-sell related items
+- Offer membership programs
+
+At Risk:
+- Send re-engagement emails
+- Provide limited-time discounts
+- Conduct feedback surveys
+
+Regular Customers:
+- Run engagement campaigns
+- Promote best-selling products
+- Encourage repeat purchases
